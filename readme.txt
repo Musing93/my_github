@@ -1,2 +1,1 @@
-add branch featural
-add &
+AND featural
